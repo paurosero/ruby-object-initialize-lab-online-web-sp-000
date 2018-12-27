@@ -21,4 +21,3 @@ class Dog
   else "Mutt"
   end
 end
-end
