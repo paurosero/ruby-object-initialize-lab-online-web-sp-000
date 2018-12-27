@@ -12,12 +12,4 @@ class Dog
     @name
   end
 
-  def breed=(breed)
-    @breed = breed
-  end
-
-  def breed
-    @breed = breed.stip
-  else "Mutt"
-  end
 end
