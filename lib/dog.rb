@@ -17,6 +17,6 @@ class Dog
   end
 
   def breed
-    "Mutt".strip
+    "Mutt"
   end
 end
